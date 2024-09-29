@@ -11,7 +11,6 @@
       sort: "created",
       expand: "user",
     });
-    console.log(resultList);
     messages = resultList.items;
 
     // Subscribe to realtime messages
